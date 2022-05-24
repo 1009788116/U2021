@@ -1,0 +1,16 @@
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\SocketMultiplayerGameServer.exe.config
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\SocketMultiplayerGameServer.exe
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\SocketMultiplayerGameServer.pdb
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\BouncyCastle.Crypto.dll
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\Google.Protobuf.dll
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\MySql.Data.dll
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\Renci.SshNet.dll
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\Ubiety.Dns.Core.dll
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\MySql.Data.xml
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\bin\Release\Renci.SshNet.xml
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\obj\Release\SocketMultiplayerGameServer.exe.config
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\obj\Release\SocketMultiplayerGameServer.csproj.CoreCompileInputs.cache
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\obj\Release\SocketMultiplayerGameServer.csproj.CopyComplete
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\obj\Release\SocketMultiplayerGameServer.exe
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\obj\Release\SocketMultiplayerGameServer.pdb
+D:\MyC#\SocketMultiplayerGameServer\SocketMultiplayerGameServer\obj\Release\SocketMultiplayerGameServer.csprojAssemblyReference.cache
