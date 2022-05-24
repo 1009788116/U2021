@@ -1,2 +1,2 @@
 # U2021
-This Project is not only codes about Unity.
+This Project is a server framework for your unity game.
